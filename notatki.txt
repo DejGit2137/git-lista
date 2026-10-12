@@ -1,1 +1,2 @@
 "Jedna linijka tekstu." 
+Druga linijka tekstu. 
